@@ -18,13 +18,15 @@
   },
   "dependencies": {
     "react": "^17.0.1",
-    "react-dom": "^17.0.1"
+    "react-dom": "^17.0.1",
+    "seedrandom": "^3.0.5"
   },
   "devDependencies": {
     "@types/chrome": "0.0.158",
     "@types/jest": "^27.0.2",
     "@types/react": "^17.0.0",
     "@types/react-dom": "^17.0.0",
+    "@types/seedrandom": "^3.0.4",
     "copy-webpack-plugin": "^9.0.1",
     "glob": "^7.1.6",
     "jest": "^27.2.1",

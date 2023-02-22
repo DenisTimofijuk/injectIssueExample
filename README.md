@@ -1,5 +1,9 @@
 # Chrome Extension TypeScript Starter
+This is an example using this template and having npm package in inject.ts file.  
+## Issue
+Issue is that inject.ts file should be self-invoking. Once I use seedrandom there, it becomes no longer self-invoking.
 
+## Template
 ![build](https://github.com/chibat/chrome-extension-typescript-starter/workflows/build/badge.svg)
 
 Chrome Extension, TypeScript and Visual Studio Code

@@ -21,6 +21,13 @@
       }
   ],
 
+  "web_accessible_resources": [
+    {
+      "resources": ["js/inject.js"],
+      "matches": ["<all_urls>"]
+    }
+  ],
+
   "background": {
     "service_worker": "js/background.js"
   },
